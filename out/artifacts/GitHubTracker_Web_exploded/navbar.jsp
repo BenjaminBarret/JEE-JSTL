@@ -10,7 +10,7 @@
                 <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/githubers.jsp">Githubers</a>
+                <a class="nav-link" href="/githubers">Githubers</a>
             </li>
         </ul>
     </div>

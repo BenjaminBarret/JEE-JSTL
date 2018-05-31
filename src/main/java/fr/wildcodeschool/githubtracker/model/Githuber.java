@@ -4,6 +4,8 @@ public class Githuber {
     private String name;
     private String email;
     private String login;
+    private String id;
+    private String avatarUrl;
 
     public String getName() {
         return name;
@@ -44,9 +46,6 @@ public class Githuber {
     public void setAvatarUrl(String avatarUrl) {
         this.avatarUrl = avatarUrl;
     }
-
-    private String id;
-    private String avatarUrl;
 
     public Githuber(String name, String email, String login, String id, String avatarUrl) {
         this.name = name;
